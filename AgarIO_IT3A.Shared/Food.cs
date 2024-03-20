@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace AgarIO_IT3A.Shared
 {
-  public class Food
+  public class Food: GameObject
   {
+
   }
 }
