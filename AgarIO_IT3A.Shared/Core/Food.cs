@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AgarIO_IT3A.Shared
+namespace AgarIO_IT3A.Shared.Core
 {
-  public class Player: GameObject
-  {
-  }
+    public class Food : GameObject
+    {
+
+    }
 }
